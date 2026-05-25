@@ -1,0 +1,12 @@
+{
+  "name": "HorasExtra Tracker",
+  "short_name": "HorasExtra",
+  "description": "Control de horas extras profesional",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080c14",
+  "theme_color": "#0d1421",
+  "icons": [
+    { "src": "/public/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
